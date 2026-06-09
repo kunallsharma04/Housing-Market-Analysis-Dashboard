@@ -96,7 +96,7 @@ The dashboard provides valuable insights into housing market behavior, helping s
 
 ### Property & Investment Analysis
 
-![Property Analysis](Property%20Analysis.png)
+![Property & Investment Analysis](./Property%20%26%20Investment%20Analysis.png)
 
 ---
 
